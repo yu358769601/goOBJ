@@ -1,0 +1,90 @@
+
+clean.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 53, 43
+  size: 27, 49
+  orig: 29, 51
+  offset: 1, 1
+  index: -1
+a10
+  rotate: true
+  xy: 104, 145
+  size: 25, 19
+  orig: 27, 21
+  offset: 1, 1
+  index: -1
+a11
+  rotate: true
+  xy: 12, 4
+  size: 33, 50
+  orig: 36, 52
+  offset: 2, 1
+  index: -1
+a12
+  rotate: false
+  xy: 88, 120
+  size: 14, 50
+  orig: 16, 53
+  offset: 1, 2
+  index: -1
+a2
+  rotate: false
+  xy: 53, 72
+  size: 33, 130
+  orig: 33, 130
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 12, 39
+  size: 39, 131
+  orig: 39, 131
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 2, 204
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 89, 214
+  size: 35, 40
+  orig: 37, 42
+  offset: 1, 1
+  index: -1
+a6
+  rotate: false
+  xy: 89, 172
+  size: 35, 40
+  orig: 37, 42
+  offset: 1, 1
+  index: -1
+a7
+  rotate: true
+  xy: 64, 17
+  size: 24, 56
+  orig: 27, 58
+  offset: 1, 1
+  index: -1
+a8
+  rotate: true
+  xy: 2, 172
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 2, 2
+  size: 8, 168
+  orig: 11, 171
+  offset: 2, 1
+  index: -1

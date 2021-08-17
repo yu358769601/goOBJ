@@ -1,0 +1,55 @@
+
+char02_A.png
+size: 126,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g11
+  rotate: false
+  xy: 68, 2
+  size: 51, 63
+  orig: 53, 68
+  offset: 1, 2
+  index: -1
+g11b
+  rotate: true
+  xy: 2, 19
+  size: 51, 64
+  orig: 53, 68
+  offset: 1, 1
+  index: -1
+g22
+  rotate: true
+  xy: 2, 356
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+g33
+  rotate: true
+  xy: 2, 428
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+g44
+  rotate: false
+  xy: 2, 72
+  size: 69, 205
+  orig: 69, 205
+  offset: 0, 0
+  index: -1
+g55
+  rotate: false
+  xy: 73, 67
+  size: 51, 210
+  orig: 51, 210
+  offset: 0, 0
+  index: -1
+g66
+  rotate: true
+  xy: 2, 279
+  size: 75, 108
+  orig: 75, 108
+  offset: 0, 0
+  index: -1

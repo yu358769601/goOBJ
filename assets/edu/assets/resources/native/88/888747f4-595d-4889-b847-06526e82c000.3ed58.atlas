@@ -1,0 +1,62 @@
+
+child01.png
+size: 211,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b3
+  rotate: false
+  xy: 58, 41
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 101, 46
+  size: 52, 54
+  orig: 54, 56
+  offset: 1, 1
+  index: -1
+d11
+  rotate: true
+  xy: 155, 48
+  size: 52, 54
+  orig: 54, 56
+  offset: 1, 1
+  index: -1
+d2
+  rotate: false
+  xy: 155, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 2, 23
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 31, 24
+  size: 25, 76
+  orig: 25, 76
+  offset: 0, 0
+  index: -1
+d6
+  rotate: true
+  xy: 58, 3
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 109, 3
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1

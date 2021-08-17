@@ -1,0 +1,76 @@
+
+win.png
+size: 776,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a4
+  rotate: true
+  xy: 702, 8
+  size: 35, 46
+  orig: 39, 48
+  offset: 2, 1
+  index: -1
+gaoguang
+  rotate: false
+  xy: 748, 76
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+lihua1
+  rotate: true
+  xy: 130, 3
+  size: 106, 126
+  orig: 108, 128
+  offset: 1, 1
+  index: -1
+lihua2
+  rotate: true
+  xy: 258, 3
+  size: 106, 126
+  orig: 108, 128
+  offset: 1, 1
+  index: -1
+lihua3
+  rotate: true
+  xy: 386, 3
+  size: 106, 126
+  orig: 109, 128
+  offset: 2, 1
+  index: -1
+lihua4
+  rotate: true
+  xy: 2, 2
+  size: 107, 126
+  orig: 109, 128
+  offset: 1, 1
+  index: -1
+lihua5
+  rotate: true
+  xy: 640, 45
+  size: 57, 106
+  orig: 59, 108
+  offset: 1, 1
+  index: -1
+lihua6
+  rotate: true
+  xy: 640, 2
+  size: 41, 60
+  orig: 43, 62
+  offset: 1, 1
+  index: -1
+qiqiu1
+  rotate: true
+  xy: 640, 104
+  size: 5, 115
+  orig: 5, 115
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: true
+  xy: 514, 8
+  size: 101, 124
+  orig: 103, 126
+  offset: 1, 1
+  index: -1

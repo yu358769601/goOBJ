@@ -1,0 +1,48 @@
+
+char04.png
+size: 280,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i11
+  rotate: false
+  xy: 111, 2
+  size: 56, 60
+  orig: 58, 62
+  offset: 1, 1
+  index: -1
+i22
+  rotate: true
+  xy: 169, 5
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+i33
+  rotate: false
+  xy: 2, 61
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+i44
+  rotate: true
+  xy: 74, 118
+  size: 62, 204
+  orig: 62, 204
+  offset: 0, 0
+  index: -1
+i55
+  rotate: true
+  xy: 74, 64
+  size: 52, 189
+  orig: 52, 189
+  offset: 0, 0
+  index: -1
+i66
+  rotate: true
+  xy: 2, 2
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1

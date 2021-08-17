@@ -1,0 +1,90 @@
+
+child02.png
+size: 60,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: true
+  xy: 2, 248
+  size: 73, 55
+  orig: 75, 58
+  offset: 1, 2
+  index: -1
+e10
+  rotate: true
+  xy: 27, 69
+  size: 18, 19
+  orig: 20, 20
+  offset: 1, 0
+  index: -1
+e11
+  rotate: true
+  xy: 2, 173
+  size: 73, 55
+  orig: 75, 58
+  offset: 1, 2
+  index: -1
+e12
+  rotate: true
+  xy: 2, 323
+  size: 73, 55
+  orig: 75, 58
+  offset: 1, 2
+  index: -1
+e2
+  rotate: false
+  xy: 2, 398
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 2, 89
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 2, 22
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 27, 2
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+e6
+  rotate: true
+  xy: 2, 135
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+e7
+  rotate: false
+  xy: 48, 83
+  size: 9, 29
+  orig: 11, 31
+  offset: 1, 1
+  index: -1
+e8
+  rotate: false
+  xy: 48, 114
+  size: 10, 19
+  orig: 12, 21
+  offset: 1, 1
+  index: -1
+e9
+  rotate: false
+  xy: 2, 2
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1

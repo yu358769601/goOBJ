@@ -18,6 +18,7 @@ func main() {
 	r := gin.Default()
 	r.Use(Cors())
 	r.GET("/", hello )
+	r.Static("/h5", "./assets")
 	r.POST("/postTest", postTest )
 	r.POST("/setKey", setKey )
 	r.POST("/getKey", getKey )

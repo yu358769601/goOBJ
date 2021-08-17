@@ -1,0 +1,62 @@
+
+char05.png
+size: 134,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j11
+  rotate: false
+  xy: 86, 145
+  size: 46, 55
+  orig: 48, 57
+  offset: 1, 1
+  index: -1
+j111
+  rotate: false
+  xy: 86, 88
+  size: 46, 55
+  orig: 48, 57
+  offset: 1, 1
+  index: -1
+j22
+  rotate: true
+  xy: 2, 3
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+j33
+  rotate: false
+  xy: 82, 2
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+j333
+  rotate: true
+  xy: 2, 225
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+j44
+  rotate: false
+  xy: 2, 67
+  size: 44, 156
+  orig: 44, 156
+  offset: 0, 0
+  index: -1
+j55
+  rotate: false
+  xy: 48, 77
+  size: 36, 146
+  orig: 36, 146
+  offset: 0, 0
+  index: -1
+j66
+  rotate: false
+  xy: 86, 202
+  size: 41, 93
+  orig: 41, 93
+  offset: 0, 0
+  index: -1

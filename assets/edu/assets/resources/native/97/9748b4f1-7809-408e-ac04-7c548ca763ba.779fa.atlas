@@ -1,0 +1,41 @@
+
+map02_block.png
+size: 300,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 234, 2
+  size: 312, 64
+  orig: 314, 69
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 2, 39
+  size: 214, 138
+  orig: 216, 140
+  offset: 1, 1
+  index: -1
+a3
+  rotate: true
+  xy: 2, 179
+  size: 132, 230
+  orig: 134, 232
+  offset: 1, 1
+  index: -1
+a4
+  rotate: false
+  xy: 154, 316
+  size: 132, 230
+  orig: 134, 232
+  offset: 1, 1
+  index: -1
+a5
+  rotate: true
+  xy: 2, 313
+  size: 233, 150
+  orig: 235, 152
+  offset: 1, 1
+  index: -1

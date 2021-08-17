@@ -1,0 +1,62 @@
+
+shiopA.png
+size: 391,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 179, 3
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 301, 6
+  size: 60, 65
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+a22
+  rotate: false
+  xy: 117, 24
+  size: 60, 65
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+a3
+  rotate: true
+  xy: 2, 91
+  size: 86, 203
+  orig: 86, 223
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 2, 2
+  size: 87, 113
+  orig: 87, 113
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 207, 73
+  size: 44, 174
+  orig: 44, 174
+  offset: 0, 0
+  index: -1
+a6
+  rotate: true
+  xy: 207, 119
+  size: 58, 175
+  orig: 58, 175
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 363, 15
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1

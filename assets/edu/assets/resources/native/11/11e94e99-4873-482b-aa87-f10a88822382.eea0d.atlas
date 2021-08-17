@@ -1,0 +1,69 @@
+
+char06_bashi_help_2.png
+size: 597,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i1
+  rotate: false
+  xy: 467, 4
+  size: 55, 61
+  orig: 57, 63
+  offset: 1, 1
+  index: -1
+i2
+  rotate: true
+  xy: 373, 67
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+i3
+  rotate: false
+  xy: 524, 5
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+i4
+  rotate: true
+  xy: 167, 62
+  size: 62, 204
+  orig: 62, 204
+  offset: 0, 0
+  index: -1
+i5
+  rotate: true
+  xy: 167, 7
+  size: 53, 189
+  orig: 53, 189
+  offset: 0, 0
+  index: -1
+i6
+  rotate: true
+  xy: 358, 2
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+n1
+  rotate: true
+  xy: 2, 8
+  size: 116, 163
+  orig: 116, 163
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 480, 74
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+n4
+  rotate: false
+  xy: 480, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

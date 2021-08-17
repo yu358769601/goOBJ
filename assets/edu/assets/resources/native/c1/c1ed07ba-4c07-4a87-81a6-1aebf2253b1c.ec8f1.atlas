@@ -1,0 +1,48 @@
+
+char06.png
+size: 281,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i1
+  rotate: true
+  xy: 218, 4
+  size: 55, 61
+  orig: 57, 63
+  offset: 1, 1
+  index: -1
+i2
+  rotate: true
+  xy: 111, 2
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+i3
+  rotate: false
+  xy: 208, 61
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+i4
+  rotate: true
+  xy: 2, 118
+  size: 62, 204
+  orig: 62, 204
+  offset: 0, 0
+  index: -1
+i5
+  rotate: true
+  xy: 2, 63
+  size: 53, 189
+  orig: 53, 189
+  offset: 0, 0
+  index: -1
+i6
+  rotate: true
+  xy: 2, 3
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1

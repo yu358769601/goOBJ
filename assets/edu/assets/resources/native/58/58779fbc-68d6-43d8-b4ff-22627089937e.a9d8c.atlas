@@ -1,0 +1,41 @@
+
+map02_rubbish.png
+size: 145,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 2, 31
+  size: 88, 141
+  orig: 90, 143
+  offset: 1, 1
+  index: -1
+a2
+  rotate: true
+  xy: 2, 2
+  size: 27, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+a3
+  rotate: true
+  xy: 34, 5
+  size: 24, 29
+  orig: 26, 31
+  offset: 1, 1
+  index: -1
+a4
+  rotate: true
+  xy: 65, 10
+  size: 19, 32
+  orig: 22, 34
+  offset: 1, 1
+  index: -1
+a5
+  rotate: true
+  xy: 99, 10
+  size: 19, 32
+  orig: 22, 34
+  offset: 1, 1
+  index: -1

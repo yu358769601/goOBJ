@@ -1,0 +1,55 @@
+
+char08.png
+size: 136,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 69, 80
+  size: 60, 65
+  orig: 62, 67
+  offset: 1, 1
+  index: -1
+g1b
+  rotate: true
+  xy: 2, 92
+  size: 60, 65
+  orig: 62, 67
+  offset: 1, 1
+  index: -1
+g2
+  rotate: false
+  xy: 2, 154
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 72, 142
+  size: 61, 116
+  orig: 61, 116
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 2, 265
+  size: 69, 205
+  orig: 69, 205
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 73, 260
+  size: 51, 210
+  orig: 51, 210
+  offset: 0, 0
+  index: -1
+g6
+  rotate: true
+  xy: 2, 2
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1

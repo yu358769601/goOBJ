@@ -1,0 +1,111 @@
+
+wheel_bashi_help_2.png
+size: 632,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 2
+  size: 227, 192
+  orig: 230, 195
+  offset: 2, 2
+  index: -1
+a10
+  rotate: true
+  xy: 331, 81
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+a11
+  rotate: true
+  xy: 339, 2
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+a111
+  rotate: true
+  xy: 476, 104
+  size: 90, 24
+  orig: 103, 38
+  offset: 6, 9
+  index: -1
+a13
+  rotate: false
+  xy: 285, 5
+  size: 52, 63
+  orig: 54, 65
+  offset: 1, 1
+  index: -1
+a18
+  rotate: false
+  xy: 231, 2
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+a19
+  rotate: false
+  xy: 452, 7
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 556, 126
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+a20
+  rotate: true
+  xy: 528, 29
+  size: 75, 58
+  orig: 77, 61
+  offset: 1, 2
+  index: -1
+a3
+  rotate: false
+  xy: 588, 81
+  size: 42, 43
+  orig: 44, 45
+  offset: 1, 1
+  index: -1
+a32
+  rotate: false
+  xy: 588, 81
+  size: 42, 43
+  orig: 44, 45
+  offset: 1, 1
+  index: -1
+a5
+  rotate: true
+  xy: 528, 3
+  size: 24, 29
+  orig: 27, 31
+  offset: 2, 1
+  index: -1
+a6
+  rotate: false
+  xy: 441, 85
+  size: 33, 109
+  orig: 33, 109
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 502, 106
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+a9
+  rotate: true
+  xy: 231, 70
+  size: 124, 98
+  orig: 124, 98
+  offset: 0, 0
+  index: -1

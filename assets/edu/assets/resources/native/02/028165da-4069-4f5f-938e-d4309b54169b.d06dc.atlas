@@ -1,0 +1,125 @@
+
+win2.png
+size: 1774,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC01
+  rotate: true
+  xy: 1376, 28
+  size: 266, 212
+  orig: 266, 212
+  offset: 0, 0
+  index: -1
+NPC02
+  rotate: true
+  xy: 489, 11
+  size: 271, 399
+  orig: 271, 399
+  offset: 0, 0
+  index: -1
+NPC05
+  rotate: false
+  xy: 610, 302
+  size: 258, 492
+  orig: 258, 492
+  offset: 0, 0
+  index: -1
+NPC06
+  rotate: false
+  xy: 870, 343
+  size: 285, 451
+  orig: 285, 451
+  offset: 0, 0
+  index: -1
+NPC07
+  rotate: false
+  xy: 890, 2
+  size: 244, 339
+  orig: 244, 339
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 1376, 546
+  size: 396, 248
+  orig: 398, 250
+  offset: 1, 1
+  index: -1
+a3
+  rotate: true
+  xy: 2, 40
+  size: 754, 173
+  orig: 754, 173
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 2, 3
+  size: 35, 46
+  orig: 39, 48
+  offset: 2, 1
+  index: -1
+shop_A
+  rotate: true
+  xy: 177, 9
+  size: 273, 310
+  orig: 273, 310
+  offset: 0, 0
+  index: -1
+shop_B
+  rotate: true
+  xy: 1376, 296
+  size: 248, 392
+  orig: 248, 392
+  offset: 0, 0
+  index: -1
+staff_M
+  rotate: false
+  xy: 1136, 71
+  size: 238, 270
+  orig: 238, 270
+  offset: 0, 0
+  index: -1
+staff_W
+  rotate: false
+  xy: 1157, 548
+  size: 216, 246
+  orig: 216, 246
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 177, 284
+  size: 510, 431
+  orig: 510, 431
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 1590, 67
+  size: 227, 116
+  orig: 227, 116
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 1157, 397
+  size: 114, 149
+  orig: 116, 151
+  offset: 1, 1
+  index: -1
+z4
+  rotate: true
+  xy: 1228, 22
+  size: 47, 92
+  orig: 47, 92
+  offset: 0, 0
+  index: -1
+z5
+  rotate: true
+  xy: 1136, 21
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1

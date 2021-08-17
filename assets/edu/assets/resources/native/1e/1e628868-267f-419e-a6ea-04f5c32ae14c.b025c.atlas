@@ -1,0 +1,55 @@
+
+shiopB.png
+size: 317,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b11
+  rotate: false
+  xy: 142, 63
+  size: 48, 56
+  orig: 55, 58
+  offset: 6, 1
+  index: -1
+b2
+  rotate: false
+  xy: 275, 26
+  size: 40, 148
+  orig: 40, 148
+  offset: 0, 0
+  index: -1
+b22
+  rotate: true
+  xy: 201, 2
+  size: 48, 56
+  orig: 55, 58
+  offset: 6, 1
+  index: -1
+b3
+  rotate: false
+  xy: 199, 52
+  size: 74, 122
+  orig: 74, 124
+  offset: 0, 1
+  index: -1
+b4
+  rotate: true
+  xy: 2, 121
+  size: 53, 195
+  orig: 53, 195
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 2, 4
+  size: 46, 197
+  orig: 66, 197
+  offset: 0, 0
+  index: -1
+b6
+  rotate: true
+  xy: 2, 58
+  size: 61, 138
+  orig: 61, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+nv.png
+size: 210,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: true
+  xy: 42, 12
+  size: 49, 62
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+f111
+  rotate: false
+  xy: 2, 2
+  size: 38, 59
+  orig: 39, 59
+  offset: 1, 0
+  index: -1
+f1b
+  rotate: false
+  xy: 106, 4
+  size: 49, 62
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+f1c
+  rotate: false
+  xy: 157, 10
+  size: 49, 62
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+f2
+  rotate: false
+  xy: 2, 63
+  size: 51, 131
+  orig: 51, 131
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 55, 68
+  size: 76, 126
+  orig: 76, 126
+  offset: 0, 0
+  index: -1
+f4
+  rotate: true
+  xy: 2, 196
+  size: 56, 204
+  orig: 56, 204
+  offset: 0, 0
+  index: -1
+f5
+  rotate: true
+  xy: 2, 254
+  size: 50, 206
+  orig: 50, 206
+  offset: 0, 0
+  index: -1
+f6
+  rotate: false
+  xy: 133, 74
+  size: 69, 120
+  orig: 69, 120
+  offset: 0, 0
+  index: -1

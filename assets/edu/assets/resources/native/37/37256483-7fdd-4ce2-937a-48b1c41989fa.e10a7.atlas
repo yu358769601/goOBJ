@@ -1,0 +1,62 @@
+
+bashi.png
+size: 341,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 266, 63
+  size: 56, 64
+  orig: 58, 66
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 294, 204
+  size: 39, 147
+  orig: 39, 147
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 2, 15
+  size: 74, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1
+b4
+  rotate: true
+  xy: 126, 2
+  size: 54, 195
+  orig: 54, 195
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 294, 353
+  size: 45, 196
+  orig: 45, 196
+  offset: 0, 0
+  index: -1
+b6
+  rotate: true
+  xy: 126, 58
+  size: 61, 138
+  orig: 61, 138
+  offset: 0, 0
+  index: -1
+bus_board
+  rotate: true
+  xy: 2, 91
+  size: 458, 120
+  orig: 460, 122
+  offset: 1, 1
+  index: -1
+bus_board2
+  rotate: true
+  xy: 124, 121
+  size: 428, 168
+  orig: 430, 170
+  offset: 1, 1
+  index: -1

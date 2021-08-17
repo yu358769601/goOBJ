@@ -1,0 +1,27 @@
+
+map05_trap.png
+size: 381,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 130
+  size: 377, 41
+  orig: 379, 44
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 106, 2
+  size: 265, 126
+  orig: 267, 128
+  offset: 1, 1
+  index: -1
+a3
+  rotate: true
+  xy: 2, 67
+  size: 61, 102
+  orig: 63, 105
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,104 @@
+
+LOGO_TEMP.png
+size: 2004,1509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a2
+  rotate: false
+  xy: 1187, 266
+  size: 815, 181
+  orig: 835, 221
+  offset: 11, 39
+  index: -1
+a3
+  rotate: false
+  xy: 2, 67
+  size: 828, 384
+  orig: 832, 388
+  offset: 3, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2, 453
+  size: 1392, 536
+  orig: 1394, 543
+  offset: 1, 7
+  index: -1
+a5
+  rotate: false
+  xy: 2, 991
+  size: 1920, 516
+  orig: 1922, 590
+  offset: 1, 1
+  index: -1
+b1
+  rotate: false
+  xy: 1562, 42
+  size: 40, 33
+  orig: 58, 49
+  offset: 9, 8
+  index: -1
+b2
+  rotate: false
+  xy: 832, 333
+  size: 66, 21
+  orig: 98, 29
+  offset: 16, 4
+  index: -1
+b3
+  rotate: false
+  xy: 559, 32
+  size: 61, 33
+  orig: 89, 47
+  offset: 14, 7
+  index: -1
+effeft_w
+  rotate: false
+  xy: 1751, 89
+  size: 176, 175
+  orig: 206, 207
+  offset: 15, 15
+  index: -1
+g
+  rotate: false
+  xy: 1396, 449
+  size: 549, 540
+  orig: 616, 542
+  offset: 1, 1
+  index: -1
+g2
+  rotate: false
+  xy: 1562, 77
+  size: 187, 187
+  orig: 200, 199
+  offset: 6, 6
+  index: -1
+g3
+  rotate: false
+  xy: 1924, 1400
+  size: 52, 107
+  orig: 61, 109
+  offset: 5, 1
+  index: -1
+z1
+  rotate: false
+  xy: 2, 2
+  size: 555, 63
+  orig: 557, 65
+  offset: 1, 1
+  index: -1
+z2
+  rotate: false
+  xy: 832, 16
+  size: 728, 248
+  orig: 730, 250
+  offset: 1, 1
+  index: -1
+z3
+  rotate: false
+  xy: 832, 356
+  size: 353, 95
+  orig: 355, 97
+  offset: 1, 1
+  index: -1

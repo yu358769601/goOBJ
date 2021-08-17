@@ -1,0 +1,76 @@
+
+man_help.png
+size: 374,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f11
+  rotate: true
+  xy: 2, 89
+  size: 59, 63
+  orig: 61, 65
+  offset: 1, 1
+  index: -1
+f11b
+  rotate: true
+  xy: 67, 89
+  size: 59, 63
+  orig: 61, 65
+  offset: 1, 1
+  index: -1
+f11c
+  rotate: true
+  xy: 132, 72
+  size: 59, 63
+  orig: 61, 65
+  offset: 1, 1
+  index: -1
+f22
+  rotate: true
+  xy: 2, 203
+  size: 38, 149
+  orig: 38, 149
+  offset: 0, 0
+  index: -1
+f33
+  rotate: true
+  xy: 2, 14
+  size: 73, 126
+  orig: 73, 126
+  offset: 0, 0
+  index: -1
+f4
+  rotate: true
+  xy: 151, 133
+  size: 56, 204
+  orig: 56, 204
+  offset: 0, 0
+  index: -1
+f5
+  rotate: true
+  xy: 153, 191
+  size: 50, 206
+  orig: 50, 206
+  offset: 0, 0
+  index: -1
+f66
+  rotate: true
+  xy: 197, 71
+  size: 60, 136
+  orig: 60, 136
+  offset: 0, 0
+  index: -1
+train_board
+  rotate: false
+  xy: 130, 2
+  size: 242, 67
+  orig: 242, 67
+  offset: 0, 0
+  index: -1
+train_board2
+  rotate: false
+  xy: 2, 150
+  size: 147, 51
+  orig: 166, 67
+  offset: 10, 10
+  index: -1

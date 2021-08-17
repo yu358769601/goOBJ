@@ -1,0 +1,13 @@
+
+win_caihua.png
+size: 37,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a4
+  rotate: false
+  xy: 0, 0
+  size: 37, 46
+  orig: 39, 48
+  offset: 1, 1
+  index: -1

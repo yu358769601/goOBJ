@@ -1,0 +1,62 @@
+
+char03.png
+size: 132,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: true
+  xy: 65, 2
+  size: 53, 61
+  orig: 55, 63
+  offset: 1, 1
+  index: -1
+h11
+  rotate: true
+  xy: 2, 2
+  size: 53, 61
+  orig: 55, 63
+  offset: 1, 1
+  index: -1
+h2
+  rotate: true
+  xy: 2, 57
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 59, 330
+  size: 71, 121
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 59, 218
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+h5
+  rotate: false
+  xy: 2, 285
+  size: 55, 166
+  orig: 55, 166
+  offset: 0, 0
+  index: -1
+h6
+  rotate: false
+  xy: 2, 121
+  size: 43, 162
+  orig: 43, 162
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 47, 117
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
